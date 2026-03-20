@@ -6,6 +6,9 @@ This document provides guidance for AI coding agents working with the LangChain.
 
 LangChain.js is a TypeScript framework for building LLM-powered applications. It provides standard interfaces for agents, models, embeddings, vector stores, and more, enabling developers to chain together interoperable components and third-party integrations.
 
+
+Added logs here
+
 ### Supported Environments
 
 - Node.js (ESM and CommonJS) - 20.x, 22.x, 24.x
